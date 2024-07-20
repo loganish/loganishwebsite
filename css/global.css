@@ -11,6 +11,7 @@
     transform: translate(-50%, -50%);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     z-index: 1;
+    corner-radius:12px;
 }
 
 .topbar a {
